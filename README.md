@@ -35,7 +35,7 @@ Click the badge above or deploy directly from GitHub:
 - **Live Local Server:** Run `python -m http.server 8080` (or double-click `open_site.bat`).
 - **Access URL:** [http://localhost:8080](http://localhost:8080)
 - **Desktop Shortcut:** Double-click `Open_CampusPulse.bat` on your Desktop.
-- deployment link https://vercel.com/maiyashchauhan/web_developers/6FCu5CiJnnA6mdg3fcdKpYAaXiCT
+- deployment link https://vercel.com/maiyashchauhan/web_developers/6FCu5CiJnnA6mdg3fcdKpYAaXiCT 
 - 
 
 ---
